@@ -1,0 +1,13 @@
+{ "Add Custom Section": { "scope": "html", "prefix": "sgsc", "body": [
+<!--  Section -->
+<section id="statement">
+  <div class="content-box-lg">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12"></div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--  Section Ends -->
+], "description": "Add Custom Section" } }
